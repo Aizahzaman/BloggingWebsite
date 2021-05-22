@@ -1,0 +1,38 @@
+#contact_me{
+	background-color: aquamarine;
+}
+#contact_me iframe{
+	width:100%;
+}
+#contact h2{
+	display:inline;
+}
+
+
+
+
+.places-visit{
+	border:3px solid green;
+	padding-left:0px;
+	padding-right:0px;
+	float:none;
+}
+.places-visit hr{
+	width:250px;
+}
+.places-visit h5, .places-visit p{
+	margin-left:10px;
+}
+
+
+
+.movies_div{
+ font-size: 20px;
+padding: 6px 20px;
+	border-radius: 30px;
+	width:100%;
+	display:inline-block;
+}
+.movies_div i{
+	float: right;
+}
